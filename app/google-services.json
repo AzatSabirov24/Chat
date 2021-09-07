@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74808720564",
+    "firebase_url": "https://mychat-d6632-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mychat-d6632",
+    "storage_bucket": "mychat-d6632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74808720564:android:6fe6f58ac4f2ae11bfebe1",
+        "android_client_info": {
+          "package_name": "com.azat_sabirov.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74808720564-38kocmbetrflvqtu3m6oikfpmc6q2aeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilgw7fHHz15ZKgz7INbKMXjUDOHl5ztU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74808720564-38kocmbetrflvqtu3m6oikfpmc6q2aeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
